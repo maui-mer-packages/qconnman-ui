@@ -23,6 +23,7 @@ BuildRequires:  pkgconfig(Qt5DBus)
 BuildRequires:  pkgconfig(qconnman)
 BuildRequires:  fdupes
 BuildRequires:  gcc-c++
+BuildRequires:  qtchooser
 BuildRequires:  qt5-qttools-linguist
 BuildRequires:  desktop-file-utils
 

@@ -12,6 +12,7 @@ Description: ConnMan configuration user interface.
 PkgBR:
     - fdupes
     - gcc-c++
+    - qtchooser
     - qt5-qttools-linguist
 PkgConfigBR:
     - Qt5Core

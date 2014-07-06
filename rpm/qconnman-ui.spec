@@ -65,5 +65,6 @@ desktop-file-install --delete-original       \
 %doc COPYING README.md
 %{_bindir}/%{name}
 %{_datadir}/applications/%{name}.desktop
+%{_datadir}/qconnman/i18n/*
 # >> files
 # << files
